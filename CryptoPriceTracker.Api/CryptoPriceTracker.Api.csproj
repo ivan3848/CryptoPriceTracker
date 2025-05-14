@@ -19,4 +19,8 @@
     <ProjectReference Include="..\CryptoPriceTracker.Api.Service\CryptoPriceTracker.Api.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>
